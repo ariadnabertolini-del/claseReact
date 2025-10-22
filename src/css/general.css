@@ -1,0 +1,10 @@
+body{
+    background-color: bisque;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+header{
+    background-color: rgb(177, 198, 148);
+    padding: 1%;
+    text-align: center;
+}
+
