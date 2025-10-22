@@ -13,5 +13,4 @@ el estado incial de esta app es simplemente un archivo con un solo componente
 - continuar el aprendisaje html y css
 
 ## lvl 1: instalacion de NPM
-# claseReact
-# claseReact
+
