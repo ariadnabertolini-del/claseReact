@@ -1,10 +1,23 @@
-body{
-    background-color: bisque;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-header{
-    background-color: rgb(177, 198, 148);
-    padding: 1%;
-    text-align: center;
-}
+@import "tailwindcss";
 
+@layer base{
+    h1, h2, h3, h4{
+        font-weight: bold;
+        margin: 1rem;
+    }
+     h1{
+        font-size: xx-large;
+     }
+     h2{
+        font-size: x-large;
+     }
+     h3{
+        font-size: large;
+     }
+     h4{
+        font-size: large;
+     }
+     p{
+        margin: 1rem;
+     }
+}

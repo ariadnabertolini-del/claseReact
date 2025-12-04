@@ -1,0 +1,26 @@
+[
+    {
+        "nombre": "marcelo tinelli",
+        "email": "tinelli@gmail.com",
+        "curso": "programacion",
+        "notafinal": "7"
+    },
+    {
+       "nombre": "susana gimenez",
+        "email": "susana@gmail.com",
+        "curso": "programacion",
+        "notafinal": "5" 
+    },
+    {
+        "nombre": "ricardo fort",
+        "email": "ricardo@gmail.com",
+        "curso": "manejo",
+        "notafinal": "4"
+    },
+     {
+        "nombre": "pepe argento",
+        "email": "pepe@gmail.com",
+        "curso": "actor",
+        "notafinal": "4"
+    }
+]

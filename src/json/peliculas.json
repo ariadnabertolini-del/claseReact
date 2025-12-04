@@ -1,0 +1,42 @@
+[
+    {
+    "titulo":"It",
+    "genero":"terror",
+    "duracion":"2",
+    "director": "Andy Muschietti",
+    "imagen":"https://sm.ign.com/t/ign_latam/review/s/stephen-ki/stephen-kings-it-review_1b4e.1200.jpg"
+    
+    } ,
+    {
+     "titulo":"It capitulo 2",
+    "genero":"terror",
+    "duracion":"2",
+    "director": "Andy Muschietti",
+    "imagen":"https://hacerselacritica.com/wp-content/uploads/2019/09/it-chapter-two-pennywise-1.jpg"
+},
+  {
+    "titulo":"It welcome to derry",
+    "genero":"terror",
+    "duracion":"capitulos 8",
+    "director": "Andy Muschietti",
+    "imagen":"https://beam-images.warnermediacdn.com/BEAM_LWM_DELIVERABLES/6c39354a-c52d-46d7-982c-b5d196988189/72c6f451-5e6e-11f0-9d16-0affd2c7be93?host=wbd-images.prod-vod.h264.io&partner=beamcom"
+    
+    } ,
+      {
+    "titulo":"It libro",
+    "genero":"terror",
+    "duracion":"1000 paginas",
+    "director": "stephen king",
+    "imagen":"https://i0.wp.com/wipy.tv/wp-content/uploads/2019/09/historia-de-la-casa-Targaryen-1.jpg?resize=600%2C360&ssl=1"
+    
+    },
+      {
+    "titulo":"It full",
+    "genero":"terror",
+    "duracion":"todo",
+    "director": "full todo",
+    "imagen":"https://images.moviesanywhere.com/2e860fe7e9cf6c64d2ee8c5a617c8507/81e424a6-fd5f-4679-a3f8-a4dd806e73e5.png?r=2x1&w=300"
+    
+    } 
+    
+]
